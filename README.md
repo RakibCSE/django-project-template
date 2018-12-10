@@ -1,2 +1,2 @@
 # django-project-template
-Django project template with Postgresql database configuration.
+Django project template with Postgresql database configuration. 
