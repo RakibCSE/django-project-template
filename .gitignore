@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.ipynb_checkpoints
+config.local.json
+__pycache__
+.idea/
+.env/
+
+# custom
+media/
